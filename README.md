@@ -1,7 +1,5 @@
 # Hi there, I’m Shadi!
 
-# Hi there, I’m Shadi!
-
 I’m a technical project manager with hands-on experience in software development and AI. I lead digital products from idea to launch, working with designers and engineers and contributing to development along the way.
 
 I’m interested in computer vision, game development, and interactive experiences for the web.
