@@ -8,8 +8,9 @@ I’m interested in computer vision, game development, and interactive experienc
   <a href="https://www.linkedin.com/in/shadi-rad/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:itsnotRadmants@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shadi" />
+ <a href="mailto:hello@xadirad.com">
+  <img src="https://img.shields.io/badge/Email-101C24?style=for-the-badge&logo=gmail&logoColor=A9DCC5" alt="Email Shadi" />
+</a>
   </a>
 </div>
 
